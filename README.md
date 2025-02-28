@@ -1,12 +1,12 @@
-# Appwrite Blog
+# BlogSphere
 
-![Appwrite Blog Banner](images/blog-1.png)  
+![BlogSphere Blog Banner](images/blog-1.png)  
 ![Second Image](images/blog-2.png)  
 ![Third Image](images/blog-3.png)  
 
 ## Overview
 
-**Appwrite Blog** is a simple and elegant blogging platform built using [Appwrite](https://appwrite.io/), an open-source backend server designed to simplify app development. This project demonstrates how to leverage Appwrite's powerful APIs to create a fully functional blog with user authentication, CRUD operations, and real-time updates.
+**BlogSphere** is a simple and elegant blogging platform built using [Appwrite](https://appwrite.io/), an open-source backend server designed to simplify app development. This project demonstrates how to leverage Appwrite's powerful APIs to create a fully functional blog with user authentication, CRUD operations, and real-time updates.
 
 Whether you're a developer looking to explore Appwrite or someone who wants to build a personal blog, this project provides a solid foundation to get started.
 
@@ -31,8 +31,8 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/adityamawa/Appwrite-Blog.git
-cd Appwrite-Blog
+git clone https://github.com/rjrishis/BlogSphere.git
+cd MegaBlog
 ```
 
 ### Step 2: Install Dependencies
