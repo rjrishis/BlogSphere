@@ -1,12 +1,13 @@
+## Visit here
+[Visit the website](https://blog-sphere-git-main-rishi-sharmas-projects.vercel.app) <br/>
+[Visit the website-1](https://blog-sphere-sooty.vercel.app/)
+
 # BlogSphere
 
 ![BlogSphere Blog Banner](images/blog-1.png)  
 ![Second Image](images/blog-2.png)  
 ![Third Image](images/blog-3.png)  
 
-## Visit here
-(https://blog-sphere-git-main-rishi-sharmas-projects.vercel.app)
-(https://blog-sphere-sooty.vercel.app/)
 
 ## Overview
 
